@@ -10,3 +10,13 @@
  
 ![Html-form](https://github.com/anuska122/30DaysOfLearning/assets/154875734/6c2d0b6e-2a3e-4522-8d5a-1e37f82c0229)
 ![CSS-form](https://github.com/anuska122/30DaysOfLearning/assets/154875734/989eb43d-3869-4d23-9397-0c87c7c79682)
+
+## Day2
+## CSS Button Hover
+- The :hover selector is used to select elements when you mouse over them. It is used to mark the key items on the web page and it's an effective way to enhance the user experience.
+
+![Html](https://github.com/anuska122/30DaysOfLearning/assets/154875734/b28184b4-2121-4c47-a589-7e0007586113)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/64e81973-3561-4667-b14b-5810efb8d7d8)
+
+
