@@ -19,4 +19,14 @@
 
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/64e81973-3561-4667-b14b-5810efb8d7d8)
 
+## Day3
+## CSS Box Modelling, Margin and Padding
+
+- In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: content, padding, borders and margins. In CSS, margin property sets or returns the margins of an element while padding is the space between an element's border and the element's content.
+
+![Html](https://github.com/anuska122/30DaysOfLearning/assets/154875734/43bb3b8c-2af7-4aca-bf2b-090a84436280)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e8cf5feb-1ab7-4a99-aa53-8917e7b56ccc)
+
+
 
