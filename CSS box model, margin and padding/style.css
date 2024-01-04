@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
+.container{
+    background-color:lightpink;
+    border: 3px solid blue;
+    padding: 79px;
+    margin: 39px 30px;
+    border-radius: 23px;
+    width: 500px;
+    display: inline-block;
+
+}
