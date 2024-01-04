@@ -28,5 +28,14 @@
 
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e8cf5feb-1ab7-4a99-aa53-8917e7b56ccc)
 
+## Day4
+## Navigation Bar 
+- A navigation bar/Navbar is a user interface element within a webpage that contains links to other sections of the website. The purpose of a navigation bar is to help your user browse through your website effortlessly. It is important for a website to have easy-to-use navigation. It plays an important role in the website as it allows the visitors to visit any section quickly.
+
+![Html](https://github.com/anuska122/30DaysOfLearning/assets/154875734/ca7bb19e-426b-404a-b64e-f79bc8aa60ef)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/4f8bc21c-41c9-4dd0-be68-9002f437d6f8)
+
+
 
 
