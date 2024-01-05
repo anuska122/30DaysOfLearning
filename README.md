@@ -36,6 +36,14 @@
 
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/4f8bc21c-41c9-4dd0-be68-9002f437d6f8)
 
+## Day5
+### Creating a website using  Before and After pseudo selectors and Navigation Bar.
 
+-  A pseudo-class is used to define a special state of an element. The CSS :before and :after properties are what also known as pseudo elements. They are used to add something before or after the content of an element. There are a lot of great uses for these pseudo elements, and we are here to explore some of them.
+
+![Html](https://github.com/anuska122/30DaysOfLearning/assets/154875734/b0b5b067-7386-48d5-8f3f-6eb1c81de7a0)
+
+
+![Css](https://github.com/anuska122/30DaysOfLearning/assets/154875734/068175af-1117-4d0a-a762-7bcec2de3bc5)
 
 
