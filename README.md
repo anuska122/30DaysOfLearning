@@ -40,6 +40,7 @@
 ### Creating a website using  Before and After pseudo selectors and Navigation Bar.
 
 -  A pseudo-class is used to define a special state of an element. The CSS :before and :after properties are what also known as pseudo elements. They are used to add something before or after the content of an element. There are a lot of great uses for these pseudo elements, and we are here to explore some of them.
+-  Today I have also learn about the opacity. The opacity property sets the opacity level for an element. The opacity-level describes the transparency-level of the content.
 
 ![Html](https://github.com/anuska122/30DaysOfLearning/assets/154875734/b0b5b067-7386-48d5-8f3f-6eb1c81de7a0)
 
