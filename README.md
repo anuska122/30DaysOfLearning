@@ -47,5 +47,16 @@
 
 ![Css](https://github.com/anuska122/30DaysOfLearning/assets/154875734/068175af-1117-4d0a-a762-7bcec2de3bc5)
 
+## Day6
+### Box shadow and Text shadow
+
+- The text-shadow CSS property adds shadows to text and box shadow CSS property add shadow to box.
+
+![HTML](https://github.com/anuska122/30DaysOfLearning/assets/154875734/87b1fcea-3a35-4eac-b384-11aa1e1346d7)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/28a7722d-05d2-428a-9cbd-fefa69715c7c)
+
+
+
 
 
