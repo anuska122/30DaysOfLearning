@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+.card{
+    padding: 23px 12px;
+    margin: 23px 12px; 
+    background-color: pink;
+    box-shadow: -10px -9px 10px grey;
+    
+}
+.card h2{
+    text-shadow: 3px 4px grey;
+}
