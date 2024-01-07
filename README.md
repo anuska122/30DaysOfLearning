@@ -56,6 +56,17 @@
 
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/28a7722d-05d2-428a-9cbd-fefa69715c7c)
 
+## Day7
+### CSS Flexbox
+
+- The flexbox in CSS is a one-dimensional layout model that has flexible and efficient layouts with distributed spaces among items to control their alignment structure i.e, it is a layout model that provides an easy and clean way to arrange items. Flexbox is a useful tool for creating beautiful and responsive layouts for web pages.
+
+![HTML](https://github.com/anuska122/30DaysOfLearning/assets/154875734/286c4832-b4f3-4bef-9da5-05b088f53e92)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e3da8243-3cc4-4982-81ed-44a50579debb)
+
+
+
 
 
 
