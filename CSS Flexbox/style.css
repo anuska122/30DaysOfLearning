@@ -1,0 +1,41 @@
+.container{
+    gap: 30px;
+    width: 50em;
+    height: 250px;
+    display: flex;
+   align-items: center;
+   
+}
+.price-planing{
+   border: 2px solid grey;
+   border-radius: 6px;
+   text-align: center;
+    padding: 30px;
+    background-color: pink;
+    box-shadow: -10px -9px 10px grey ;
+
+}
+.box2{
+    font-size: 24px;
+    
+}
+.box1{
+    font-size: 24px;
+}
+.box3{
+    font-size: 24px;
+}
+.price1{
+    font-size: 30px;
+}
+.price2{
+    font-size: 30px;
+}
+.price3{
+    font-size: 30px;
+}
+.btn:hover{
+    background-color: grey;
+    border-radius: 2px;
+
+}
