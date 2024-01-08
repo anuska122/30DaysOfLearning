@@ -66,6 +66,19 @@
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e3da8243-3cc4-4982-81ed-44a50579debb)
 
 
+## Day8
+### CSS Grid 
+- The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning. CSS Grid gives us the tools to create basic and advanced website layouts in responsive way.
+
+![HTML](https://github.com/anuska122/30DaysOfLearning/assets/154875734/b26fea85-93bd-4169-9fba-c93f71586c26)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e1cb5c8c-3960-45bf-881f-ed9aa6b8e63f)
+
+
+
+
+
+
 
 
 
