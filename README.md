@@ -75,6 +75,18 @@
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e1cb5c8c-3960-45bf-881f-ed9aa6b8e63f)
 
 
+## Day9
+### Creating Layouts using Grid Template Area
+
+ - The grid-template-areas property specifies areas within the grid layout. It allows us to create a visual representation of our layout by assigning names to different regions of the grid and then placing grid items into those areas based on the defined names.
+
+![HTML](https://github.com/anuska122/30DaysOfLearning/assets/154875734/3764871c-d37b-46ae-a866-39ab29a0d276)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/ddbb5c19-954d-4f52-bc18-6872b66afc77)
+
+
+
+
 
 
 
