@@ -1,0 +1,17 @@
+.box{
+    width: 120px;
+    height: 120px;
+    border: 2px solid black;
+}
+#box1{
+ position:relative;
+    top: 40px;
+    background-color: green;}
+#box2{ 
+    position: relative;
+    top: 40px;
+    background-color: blue;
+   
+}
+#box3{ background-color: pink;}
+#box4{ background-color: yellow;}
