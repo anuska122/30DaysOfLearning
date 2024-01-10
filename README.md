@@ -84,6 +84,18 @@
 
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/ddbb5c19-954d-4f52-bc18-6872b66afc77)
 
+## Day10
+### Visibility in CSS
+- The visibility CSS property shows or hides an element without changing the layout of a document. Visibility property specifies how an element should be displayed.
+
+### z-index in CSS
+- z-index is the CSS property that controls the stacking order of overlapping elements on a page. An element with a higher z-index value will appear in front of an element with a lower z-index value.
+
+![HTML](https://github.com/anuska122/30DaysOfLearning/assets/154875734/c67bb593-fe4d-40ab-8ae5-fa68af547354)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/85b19091-64b8-4d60-8479-a593af9db64c)
+
+
 
 
 
