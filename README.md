@@ -96,6 +96,16 @@
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/85b19091-64b8-4d60-8479-a593af9db64c)
 
 
+## Day11
+### Animations and Keyframes
+- An animation lets an element gradually change from one style to another. We can change as many CSS properties we want, as many times as we want. The keyframes controls the intermediate steps in a CSS animation sequence by defining styles for keyframes (or waypoints) along the animation sequence. This gives more control over the intermediate steps of the animation sequence.
+  
+![HTML](https://github.com/anuska122/30DaysOfLearning/assets/154875734/3971066f-95b3-4aa6-bee4-e9d80ac3d62e)
+
+![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/89b8f25a-5b77-48f3-be07-76aa8928ad82)
+
+
+
 
 
 
