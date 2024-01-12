@@ -104,6 +104,13 @@
 
 ![CSS](https://github.com/anuska122/30DaysOfLearning/assets/154875734/89b8f25a-5b77-48f3-be07-76aa8928ad82)
 
+## Day12
+### JavaScript
+- After learning some basics of HTML and CSS now I am starting Javascript.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/8c84d25b-c0a6-4548-9805-fd4a1c9f6846)
+
+
 
 
 
