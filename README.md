@@ -111,6 +111,39 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/8c84d25b-c0a6-4548-9805-fd4a1c9f6846)
 
 
+## Day13
+## Variables, Datatype and Operators in JavaScript
+### Variables
+
+- JavaScript Variables are the building blocks of any programming language. In JavaScript, variables can be used to store reusable values. In JavaScript, a variable can be declared using var, let, const keywords.
+  -  var keyword is used to declare variables since JavaScript was created. It is confusing and error-prone when using variables declared using var.
+  - let keyword removes the confusion and error of var. It is the new and recommended way of declaring variables in JavaScript.
+  - const keyword is used to declare a constant variable that cannot be changed once assigned a value.
+
+### Datatypes
+- In JavaScript, a data type is a classification of values that determines the possible operations that can be performed on those values and the way they are stored in memory.
+  - I have presented types of datatypes in following image,
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/ac9be31d-b02a-4292-9f26-f4343dbb386f)
+
+
+### Operators
+- JavaScript operators operate the operands, these are symbols that are used to manipulate a certain value or operand. Operators are used to performing specific mathematical and logical computations on operands.
+  - Types of operators:
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/79c6e91c-453a-47cb-8670-268f263c0f3b)
+
+
+### So, here are some samples of how I used the operators and variables.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/3b86f3d6-ee9d-4c57-b2db-f5fab58a6d6c)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/27899fdc-bfc1-49d4-8a22-5af29902f071)
+
+
+
+
+
+
 
 
 
