@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strings</title>
+</head>
+<body>
+    <script>
+        var string = "Hello";
+        var name = "Anushka";
+        var message = "she is learning web development";
+        var temp = `${name} is a 'good' person "and" ${message}`;
+        var len = name.length;
+        console.log(string);
+        console.log(name);
+        console.log(message);
+        console.log(temp);
+        console.log(`Length of name is ${len}`);
+        console.log("Hello World\nprint\tand\b");
+        var str ="This is a string"
+        console.log(str);
+        var position = str. indexOf('is');
+        console.log(position);
+        position = str. lastIndexOf('is');
+        console.log(position);
+        var substr = str. slice(0,7);
+        console.log(substr);
+        var replaced = str.replace('string', 'Anushka');
+        console.log(str);
+        console.log(replaced);
+        console.log(str.toUpperCase());
+        console.log(str.toLowerCase());
+        var newString = str.concat('New String');
+        console.log(newString);
+        var strWithWhitespaces = "   this  contains  spaces   ";
+        console.log(strWithWhitespaces.trim());
+        var char3 = str.charAt(3);
+        console.log(char3);
+        var char3 = str.charCodeAt(3);
+        console.log(char3);
+    </script>
+</body>
+</html>
