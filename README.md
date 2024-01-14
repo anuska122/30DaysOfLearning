@@ -139,6 +139,23 @@
 
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/27899fdc-bfc1-49d4-8a22-5af29902f071)
 
+## Day14
+
+### Strings and its functions
+
+- A string is a sequence of one or more characters that may consist of letters, numbers, or symbols. Strings in JavaScript are primitive data types and immutable, which means they are unchanging. We can create them by wrapping the text inside single quotes, double quotes, or backticks. Template literals enable us to write cleaner code thanks to string interpolation, and when we need multi-line strings.
+  - In the image below there are JavaScript string methods:
+ 
+  ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/26c2f1f4-e394-4040-8419-3d3b0905eae4)
+
+  And in the following image I have used some of the strings method of JavaScript,
+
+  ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/2097239c-b90a-4690-a110-8abd2ab019ba)
+
+  ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/c555df72-c83e-460b-9b28-b037380638b4)
+
+
+
 
 
 
