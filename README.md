@@ -160,7 +160,7 @@
 
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/8748517c-1e46-49ac-931d-a0c0d00f0c32)
 
-![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/abccc679-8683-4c75-ac29-84f7e3655a3d)
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/94c6281d-521b-4518-afba-f25dd63f1090)
 
 
 
