@@ -154,6 +154,16 @@
 
   ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/c555df72-c83e-460b-9b28-b037380638b4)
 
+  ## Day15
+  ### Arrays and Objects
+  - An array in JavaScript is a type of global object that is used to store data. Arrays consist of an ordered collection or list containing zero or more data types, and use numbered indices starting from 0 to access specific items. Objects represent a special data type that is mutable and can be used to store a collection of data rather than just a single value.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/8748517c-1e46-49ac-931d-a0c0d00f0c32)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/abccc679-8683-4c75-ac29-84f7e3655a3d)
+
+
+
 
 
 
