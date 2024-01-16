@@ -163,6 +163,27 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/94c6281d-521b-4518-afba-f25dd63f1090)
 
 
+## Day16
+### Functions in JavaScript
+
+- In JavaScript, a function is a block of reusable code designed to perform a specific task or a set of tasks. Functions are a fundamental building block in JavaScript and play a crucial role in organizing and structuring code. Some Functions are,
+  - Alert: Display a popup box with the specified message with the OK button.
+ 
+  - ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/acdc8c9f-d492-4b87-9d0d-53a07a0a5eb7)
+
+  - Confirm: Display a popup box with the specified message with OK and Cancel buttons.
+ 
+  - ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/36568522-296f-48e6-9169-2dbdf0819f1b)
+
+  - Prompt: Display a popup box to take the user's input with the OK and Cancel buttons.
+ 
+  - ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/8591cab0-3211-4dc1-badb-eed442998dfe)
+
+
+ ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e016db07-66d4-454b-91a3-62537cbcb1db)
+
+
+
 
 
 
