@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Functions</title>
+</head>
+<body>
+</body>
+    <script>
+        function greet(name, greetText){
+            console.log(name + " is a good girl");
+            console.log(greetText + " " + name);
+        }
+        function sum(a,b,c){
+            let d = a + b + c;
+            return d;
+        }
+            let returnVal = sum(1,2,3);
+            console.log(returnVal);
+        
+        let name = "Anushka";
+        let name1 = "Anita";
+        let name2 = "Aashika";
+        let name3 = "Nansika";
+        let greetText = "Hello";
+        greet(name, greetText);
+        greet(name1, greetText);
+        greet(name2, greetText);
+        greet(name3, greetText);
+
+        alert("Message");
+        let Name = prompt("What is your name?",  " ");
+        console.log(Name);
+        let deletePost = confirm("Do you really want to delete this post?");
+        if(deletePost){
+            console.log("Your post has been deleted successfully");
+        }
+        else{
+            console.log("your post has not been deleted");
+        }
+        console.log(deletePost);
+    </script>
+</html>
