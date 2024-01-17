@@ -182,6 +182,22 @@
 
  ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e016db07-66d4-454b-91a3-62537cbcb1db)
 
+## Day17
+### Loops in JavaScript
+- Loops are used in JavaScript to perform repeated tasks based on a condition. Conditions typically return true or false . A loop will continue running until the defined condition returns false.
+
+  JavaScript supports different kinds of loops:
+  - for - loops through a block of code a number of times.
+  - for/in - loops through the properties of an object.
+  - for/of - loops through the values of an iterable object.
+  - while - loops through a block of code while a specified condition is true.
+  - do/while - also loops through a block of code while a specified condition is true.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/c210cf46-5ea9-44a8-b1b9-d15c42792400)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/11af6179-9c8f-4dbb-8528-7c916cc31b0a)
+
+
 
 
 
