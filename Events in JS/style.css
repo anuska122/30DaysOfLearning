@@ -1,0 +1,10 @@
+#btn{
+    padding: 10px 10px;
+    background-color: pink;
+    border: 2px solid grey;
+    border-radius: 7px;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: rgb(184, 68, 88);
+}
