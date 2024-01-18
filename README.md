@@ -198,6 +198,24 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/11af6179-9c8f-4dbb-8528-7c916cc31b0a)
 
 
+## Day18
+### Events in JavaScript
+- An event is an action that occurs as per the user's instruction as input and gives the output in response. We can consider different types of inputs, such as mouse clicks, button presses, and when users press tab and text box change.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/a9f855ae-695a-46cd-9eaf-e2f19a3a5cef)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/8e5463a3-2c4e-4cb1-800f-49e53dcea8ca)
+
+
+![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/f625c8e1-7475-48d8-9d91-7b4824406e59)
+
+
+
+
+
+
+
+
 
 
 
