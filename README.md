@@ -210,6 +210,21 @@
 ![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/f625c8e1-7475-48d8-9d91-7b4824406e59)
 
 
+## Day 19
+### Creating a Digital Clock using the Setinterval function of Javascript
+- SetInterval is a function in JavaScript is used to repeatedly execute a given function at a specified interval. It takes two arguments, the first argument is the function to be executed and the second argument is the time interval (in milliseconds) between each execution.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/44fc2a8e-d2f6-49c2-be01-43bd0c468265)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/48fa89c6-9d2f-4c38-be01-0a476e2b59ae)
+
+![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/813be026-d337-4d5c-b049-39b95f030c78)
+
+
+
+
+
+
 
 
 
