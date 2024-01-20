@@ -221,6 +221,18 @@
 ![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/813be026-d337-4d5c-b049-39b95f030c78)
 
 
+## Day20
+### Math Object In JavaScript
+- The math object provides us properties and methods for mathematical constants and functions. Unlike other global objects, Math is not a constructor. All the properties and methods of Math are static and can be called by using Math as an object without creating it.
+
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/f59d4468-b446-4b05-b37d-f6902c284443)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e652166a-ef07-48e9-949c-e1066d8b1880)
+
+
+
+
 
 
 
