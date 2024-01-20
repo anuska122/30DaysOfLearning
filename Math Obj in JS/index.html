@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Object in JS</title>
+</head>
+<body>
+    <script>
+        let m = Math;
+        console.log(m);
+
+        console.log("The value of Math.E is ", Math.E);
+        console.log("The value of Math.PI is ", Math.PI);
+        console.log("The value of Math.LN2 is ", Math.LN2);
+        console.log("The value of Math.SQRT1_2 is", Math.SQRT1_2);
+        console.log("The value of Math.LOG2E is", Math.LOG2E);
+
+        let a = 43.55747;
+        let b = 23.333;
+        console.log("The value of a and b is ", a, b);
+        console.log("The value of a and b rounded is ", Math.round(a), Math.round(b));
+
+        // power
+        console.log("3 raised to power of 3 is ", Math.pow(3, 3));
+
+        // square root
+        console.log("Square root of 25 is ", Math.sqrt(25));
+
+        //  ceil and floor
+        console.log("4.9 rounded up to nearest integer is ", Math.ceil(4.9));
+        console.log("4.9 rounded down to nearest integer is ", Math.floor(4.9));
+
+        // Absolute function
+        console.log("Absolute value of 5.66 is ", Math.abs(5.66));
+        console.log("Absolute value of -5.66 is ", Math.abs(-5.66));
+
+        // Generating a random number
+        let r = Math.random();
+        let c = 1;
+        let d = 100;
+        let r1_100 = b + (c-b)*Math.random();
+        console.log("The random number is ", r);
+        console.log("The random number is ", r1_100);
+
+        // Trigonometery function
+        console.log("The value of sin(pi) is ", Math.sin(Math.PI/2));
+        console.log("The value of cos(pi) is ", Math.cos(Math.PI/2));
+        console.log("The value of tan(pi) is ", Math.tan(Math.PI/2));
+    </script>
+</body>
+</html>
