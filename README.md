@@ -231,6 +231,17 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e652166a-ef07-48e9-949c-e1066d8b1880)
 
 
+## Day21
+### Arrows in JavaScript
+- Arrow function {()=>} is concise way of writing JavaScript functions in shorter way. Arrow functions were introduced in the ES6 version. They make our code more structured and readable.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/70d345ef-9dbf-4ea7-a4bc-7d6bae197c09)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/98aa3a5f-2b00-46f1-8862-f303ab01b1bb)
+
+
+
+
 
 
 
