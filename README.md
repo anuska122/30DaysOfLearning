@@ -240,6 +240,20 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/98aa3a5f-2b00-46f1-8862-f303ab01b1bb)
 
 
+## Day22
+### JSON(JavaScript Object Notation) in JavaScript
+- JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa).
+  - JavaScript has a built in function for converting JSON strings into JavaScript objects:
+   JSON.parse().
+  - JavaScript also has a built in function for converting an object into a JSON string:
+   JSON.stringify().
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/3aeda9fe-2c37-43f3-bd51-b8ef21f51189)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/30262435-656c-44b5-91f1-365d66ee5c0f)
+
+
+
 
 
 
