@@ -253,6 +253,20 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/30262435-656c-44b5-91f1-365d66ee5c0f)
 
 
+## Day23
+
+### Calendar using HTML, CSS And JavaScript
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/ee777d49-2356-4fc4-9f85-3312951d440a)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/5e8448bb-5444-4d19-a472-6097ad2d29ea)
+
+![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e4e0a706-6d75-4f1d-bd6b-6dad829ac345)
+
+
+
+
+
 
 
 
