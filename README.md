@@ -264,6 +264,17 @@
 ![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e4e0a706-6d75-4f1d-bd6b-6dad829ac345)
 
 
+## Day24
+### Callbacks In JavaScript
+- A JavaScript callback is a function which is to be executed after another function has finished execution. A more formal definition would be, any function that is passed as an argument to another function so that it can be executed in that other function is called as a callback function.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/54a596c2-9d1d-4d47-b3f0-f2b4e8aed059)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/a5803bdd-78e9-4960-8c89-4023b100de46)
+
+
+
+
 
 
 
