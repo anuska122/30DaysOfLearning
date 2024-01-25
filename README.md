@@ -273,6 +273,19 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/a5803bdd-78e9-4960-8c89-4023b100de46)
 
 
+## Day25
+### Promises in JavaScript
+- JavaScript Promise are easy to manage when dealing with multiple asynchronous operations where callbacks can create callback hell leading to unmanageable code. Prior to promises events and callback functions were used but they had limited functionalities and created unmanageable code. Multiple callback functions would create callback hell that leads to unmanageable code. Promises are used to handle asynchronous operations in JavaScript. Perform operations inside the callback function and if everything went well then it is resolve. If desired operations do not go well then it is reject.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/2bd9571e-5cf4-4841-85da-279e555c16a6)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/d7a4753f-0bc9-4027-a2e5-a89e82988e06)
+
+
+
+
+
+
 
 
 
