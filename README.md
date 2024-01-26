@@ -281,6 +281,16 @@
 
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/d7a4753f-0bc9-4027-a2e5-a89e82988e06)
 
+## Day26
+### Async/Await and Fetch API
+- The async function declaration creates a binding of a new async function to a given name. The await keyword is permitted within the function body, enabling asynchronous, promise-based behavior to be written in a cleaner style and avoiding the need to explicitly configure promise chains. Async makes a function return a Promise while Await makes a function wait for a Promise.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/71c9b271-4dd2-4951-852a-0714fc5eed96)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/9dff86af-6abf-4fac-ab47-29d148d4e650)
+
+
+
 
 
 
