@@ -290,6 +290,22 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/9dff86af-6abf-4fac-ab47-29d148d4e650)
 
 
+## Day27 
+### JavaScript try catch and Error Handling
+
+- Error objects and types play a huge role in this mechanism. JavaScript provides various built-in error objects, each designed for a specific type of error, such as SyntaxError or TypeError, helping developers to pinpoint issues more precisely.
+
+  - The try statement defines a code block to run (to try).
+
+  - The catch statement defines a code block to handle any error.
+
+  - The finally statement defines a code block to run regardless of the result.
+
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/32438b93-d6a4-48dd-800d-9a54b614dec3)
+
+
+
 
 
 
