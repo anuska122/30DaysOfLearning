@@ -305,6 +305,19 @@
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/32438b93-d6a4-48dd-800d-9a54b614dec3)
 
 
+## Day28
+### Cookies In JavaScript
+- Cookies let us store user information in web pages. Cookies are data, stored in small text files, on our computer. When a web server has sent a 
+  web page to a browser, the connection is shut down, and the server forgets everything about the user. Cookies were invented to solve the problem 
+ "how to remember information about the user". When a user visits a web page, his/her name can be stored in a cookie. Next time the user visits 
+ the page, the cookie "remembers" his/her name.
+- JavaScript can create, read, and delete cookies with the document.cookie property.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/f39aea24-9669-49c3-84a9-accda400daef)
+
+
+
+
 
 
 
