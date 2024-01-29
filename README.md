@@ -315,6 +315,21 @@
 
 ![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/f39aea24-9669-49c3-84a9-accda400daef)
 
+## Day29 
+### Password Generator Using HTML, CSS and JavaScript
+
+- Today I have created simple password generator using HTML, CSS and simple JavaScript Function.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/95be5b09-7f6c-425d-be6a-8af5cd2d751f)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/eaadd64c-b897-4576-9e99-02f682f1602e)
+
+![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/58a58163-d168-40a2-b926-108238bd3729)
+
+
+
+
+
 
 
 
