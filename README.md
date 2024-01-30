@@ -326,6 +326,20 @@
 
 ![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/58a58163-d168-40a2-b926-108238bd3729)
 
+## Day30 
+### Calculator Using HTML, CSS and JavaScript
+- Here is the last project of my 30 days of learning web development. I have learned some of the basics of Html, Css, and Javascript and will be learning furthermore. I had fun doing this project and enjoyed learning everyday.
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/bccfe38c-774e-47de-89c8-c45989472fc8)
+
+![](https://github.com/anuska122/30DaysOfLearning/assets/154875734/b7e8de8b-a9b6-4f9a-a25c-812af4d71cb5)
+
+![Output](https://github.com/anuska122/30DaysOfLearning/assets/154875734/e314aedd-a4f1-4e70-82b4-86b867b43804)
+
+
+
+
+
 
 
 
